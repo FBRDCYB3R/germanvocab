@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DE.VOCAB // Learning Deutsch</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="top-bar">
+            <span class="logo">// DE.VOCAB</span>
+            <span class="stats"><span id="word-count">0</span> words</span>
+        </div>
+        <div class="title-section">
+            <span class="level">A1 / A2 LEVEL</span>
+            <h1>Learning <span class="highlight">Deutsch.</span></h1>
+        </div>
+        <nav class="tabs">
+            <button class="tab active">STUDY</button>
+            <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/edit/main/words.json" target="_blank" class="tab link">ADD WORD (GITHUB)</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="flashcard-container" id="card-container">
+            <div class="flashcard" id="flashcard">
+                <div class="front">
+                    <h2 id="german-word">Loading...</h2>
+                </div>
+                <div class="back">
+                    <h3 id="english-meaning"></h3>
+                    <p class="pronunciation" id="pronunciation"></p>
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button id="prev-btn" class="ctrl-btn">&larr; Prev</button>
+            <span class="progress" id="progress-text">0 / 0</span>
+            <button id="next-btn" class="ctrl-btn">Next &rarr;</button>
+        </div>
+        <div class="actions">
+             <button id="shuffle-btn" class="action-btn">⇄ Shuffle</button>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
