@@ -1,22 +1,432 @@
 [
-    {
-        "german": "das Flugzeug",
-        "english": "the airplane",
-        "pronunciation": "flook-tsoyg"
-    },
-    {
-        "german": "die Geschwindigkeit",
-        "english": "the speed / velocity",
-        "pronunciation": "ge-shvin-dik-kite"
-    },
-    {
-        "german": "der Flughafen",
-        "english": "the airport",
-        "pronunciation": "flook-hah-fen"
-    },
-    {
-        "german": "immer",
-        "english": "always",
-        "pronunciation": "im-er"
-    }
+  {
+    "german": "ich bin",
+    "english": "I am",
+    "pronunciation": "ikh bin"
+  },
+  {
+    "german": "der Regenschirm",
+    "english": "umbrella",
+    "pronunciation": "ray-gen-sheerm"
+  },
+  {
+    "german": "Was ist das?",
+    "english": "what is this?",
+    "pronunciation": "vas ist das"
+  },
+  {
+    "german": "schön",
+    "english": "beautiful",
+    "pronunciation": "shurn"
+  },
+  {
+    "german": "nicht",
+    "english": "not",
+    "pronunciation": "nikht"
+  },
+  {
+    "german": "trocken",
+    "english": "dry",
+    "pronunciation": "trok-en"
+  },
+  {
+    "german": "nass",
+    "english": "wet",
+    "pronunciation": "nahs"
+  },
+  {
+    "german": "hässlich",
+    "english": "ugly",
+    "pronunciation": "hess-likh"
+  },
+  {
+    "german": "gelb",
+    "english": "yellow",
+    "pronunciation": "gelp"
+  },
+  {
+    "german": "sein",
+    "english": "to be",
+    "pronunciation": "zyn"
+  },
+  {
+    "german": "weiß",
+    "english": "white",
+    "pronunciation": "vys"
+  },
+  {
+    "german": "jung",
+    "english": "young",
+    "pronunciation": "yoong"
+  },
+  {
+    "german": "gut",
+    "english": "good",
+    "pronunciation": "goot"
+  },
+  {
+    "german": "ich",
+    "english": "I",
+    "pronunciation": "ikh"
+  },
+  {
+    "german": "du",
+    "english": "you",
+    "pronunciation": "doo"
+  },
+  {
+    "german": "er / sie / es",
+    "english": "he / she / it",
+    "pronunciation": "air / zee / es"
+  },
+  {
+    "german": "wir",
+    "english": "we",
+    "pronunciation": "veer"
+  },
+  {
+    "german": "ihr",
+    "english": "you all",
+    "pronunciation": "eer"
+  },
+  {
+    "german": "Sie",
+    "english": "they / you (formal)",
+    "pronunciation": "zee"
+  },
+  {
+    "german": "schwarz",
+    "english": "black",
+    "pronunciation": "shvarts"
+  },
+  {
+    "german": "alt",
+    "english": "old",
+    "pronunciation": "ahlt"
+  },
+  {
+    "german": "rot",
+    "english": "red",
+    "pronunciation": "roht"
+  },
+  {
+    "german": "sehr",
+    "english": "very",
+    "pronunciation": "zair"
+  },
+  {
+    "german": "süß",
+    "english": "sweet",
+    "pronunciation": "zyoos"
+  },
+  {
+    "german": "groß",
+    "english": "big",
+    "pronunciation": "grohs"
+  },
+  {
+    "german": "klein",
+    "english": "small",
+    "pronunciation": "klyn"
+  },
+  {
+    "german": "grün",
+    "english": "green",
+    "pronunciation": "gruen"
+  },
+  {
+    "german": "richtig",
+    "english": "correct",
+    "pronunciation": "rikh-tikh"
+  },
+  {
+    "german": "teuer",
+    "english": "expensive",
+    "pronunciation": "toy-er"
+  },
+  {
+    "german": "schnell",
+    "english": "fast",
+    "pronunciation": "shnel"
+  },
+  {
+    "german": "Frikadelle",
+    "english": "burger / meatball",
+    "pronunciation": "free-kah-del-eh"
+  },
+  {
+    "german": "Mond",
+    "english": "moon",
+    "pronunciation": "mohnt"
+  },
+  {
+    "german": "hell",
+    "english": "bright",
+    "pronunciation": "hel"
+  },
+  {
+    "german": "Tag",
+    "english": "day",
+    "pronunciation": "tahk"
+  },
+  {
+    "german": "neu",
+    "english": "new",
+    "pronunciation": "noy"
+  },
+  {
+    "german": "dies",
+    "english": "this",
+    "pronunciation": "dees"
+  },
+  {
+    "german": "braun",
+    "english": "brown",
+    "pronunciation": "brown"
+  },
+  {
+    "german": "Flasche",
+    "english": "bottle",
+    "pronunciation": "flash-uh"
+  },
+  {
+    "german": "voll",
+    "english": "full",
+    "pronunciation": "fol"
+  },
+  {
+    "german": "kalt",
+    "english": "cold",
+    "pronunciation": "kahlt"
+  },
+  {
+    "german": "leer",
+    "english": "empty",
+    "pronunciation": "lair"
+  },
+  {
+    "german": "Katze",
+    "english": "cat",
+    "pronunciation": "kaht-zuh"
+  },
+  {
+    "german": "hellbraun",
+    "english": "light brown",
+    "pronunciation": "hel-brown"
+  },
+  {
+    "german": "hart",
+    "english": "hard",
+    "pronunciation": "hahrt"
+  },
+  {
+    "german": "weich",
+    "english": "soft",
+    "pronunciation": "vykh"
+  },
+  {
+    "german": "Zitrone",
+    "english": "lemon",
+    "pronunciation": "tsi-tro-nuh"
+  },
+  {
+    "german": "frisch",
+    "english": "fresh",
+    "pronunciation": "frish"
+  },
+  {
+    "german": "saftig",
+    "english": "juicy",
+    "pronunciation": "zahf-tikh"
+  },
+  {
+    "german": "Blume",
+    "english": "flower",
+    "pronunciation": "bloo-muh"
+  },
+  {
+    "german": "Buch",
+    "english": "book",
+    "pronunciation": "bookh"
+  },
+  {
+    "german": "interessant",
+    "english": "interesting",
+    "pronunciation": "in-ter-es-sahnt"
+  },
+  {
+    "german": "dick",
+    "english": "thick",
+    "pronunciation": "dik"
+  },
+  {
+    "german": "langweilig",
+    "english": "boring",
+    "pronunciation": "lahng-vy-likh"
+  },
+  {
+    "german": "dünn",
+    "english": "thin",
+    "pronunciation": "duen"
+  },
+  {
+    "german": "schmutzig",
+    "english": "dirty",
+    "pronunciation": "shmoot-tsikh"
+  },
+  {
+    "german": "sauber",
+    "english": "clean",
+    "pronunciation": "zow-ber"
+  },
+  {
+    "german": "modern",
+    "english": "modern",
+    "pronunciation": "moh-dairn"
+  },
+  {
+    "german": "langsam",
+    "english": "slow",
+    "pronunciation": "lahng-zahm"
+  },
+  {
+    "german": "unmodern",
+    "english": "unfashionable",
+    "pronunciation": "oon-moh-dairn"
+  },
+  {
+    "german": "Pferd",
+    "english": "horse",
+    "pronunciation": "pfairt"
+  },
+  {
+    "german": "Mädchen",
+    "english": "girl",
+    "pronunciation": "mayd-khen"
+  },
+  {
+    "german": "bunt",
+    "english": "colorful",
+    "pronunciation": "boont"
+  },
+  {
+    "german": "grau",
+    "english": "grey",
+    "pronunciation": "grow"
+  },
+  {
+    "german": "Häuser",
+    "english": "houses",
+    "pronunciation": "hoy-zer"
+  },
+  {
+    "german": "Bälle",
+    "english": "balls",
+    "pronunciation": "bel-luh"
+  },
+  {
+    "german": "Zitronen",
+    "english": "lemons",
+    "pronunciation": "tsi-tro-nen"
+  },
+  {
+    "german": "Lampen",
+    "english": "lamps",
+    "pronunciation": "lahmp-en"
+  },
+  {
+    "german": "Gläser",
+    "english": "glasses / cups",
+    "pronunciation": "glay-zer"
+  },
+  {
+    "german": "Bücher",
+    "english": "books",
+    "pronunciation": "bue-kher"
+  },
+  {
+    "german": "schläft",
+    "english": "sleeps / is sleeping",
+    "pronunciation": "shlayft"
+  },
+  {
+    "german": "Mann",
+    "english": "man",
+    "pronunciation": "mahn"
+  },
+  {
+    "german": "Frau",
+    "english": "woman",
+    "pronunciation": "frow"
+  },
+  {
+    "german": "auch",
+    "english": "too / also",
+    "pronunciation": "owkh"
+  },
+  {
+    "german": "schläfst",
+    "english": "are you sleeping",
+    "pronunciation": "shlayfst"
+  },
+  {
+    "german": "noch",
+    "english": "still",
+    "pronunciation": "nokh"
+  },
+  {
+    "german": "jetzt",
+    "english": "now",
+    "pronunciation": "yetst"
+  },
+  {
+    "german": "nicht mehr",
+    "english": "not anymore",
+    "pronunciation": "nikht mair"
+  },
+  {
+    "german": "Karten",
+    "english": "cards",
+    "pronunciation": "kahr-ten"
+  },
+  {
+    "german": "Gitarre",
+    "english": "guitar",
+    "pronunciation": "gi-tahr-uh"
+  },
+  {
+    "german": "allein",
+    "english": "alone",
+    "pronunciation": "ah-lyn"
+  },
+  {
+    "german": "drinnen",
+    "english": "inside",
+    "pronunciation": "drin-nen"
+  },
+  {
+    "german": "draußen",
+    "english": "outside",
+    "pronunciation": "drow-sen"
+  },
+  {
+    "german": "Schach",
+    "english": "chess",
+    "pronunciation": "shahkh"
+  },
+  {
+    "german": "Stein",
+    "english": "rock",
+    "pronunciation": "shtyn"
+  },
+  {
+    "german": "Schere",
+    "english": "scissors",
+    "pronunciation": "shair-uh"
+  },
+  {
+    "german": "Papier",
+    "english": "paper",
+    "pronunciation": "pah-peer"
+  }
 ]
