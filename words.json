@@ -429,9 +429,94 @@
     "english": "paper",
     "pronunciation": "pah-peer"
   },
-    {
-    "german": "sprechen",
+  {
+    "german": "Sprechen",
     "english": "speak",
-    "pronunciation": "spy-khen"
-  }
+    "pronunciation": "shpy-khen"
+  },
+  {
+    "german": "Spreche",
+    "english": "I speak (I tense)",
+    "pronunciation": "Sphy-khe"
+  },
+  {
+    "german": "Polizist",
+    "english": "Policeman",
+    "pronunciation": "Poliz-ist"
+  },
+  {
+    "german": "Menschen",
+    "english": "people",
+    "pronunciation": "Mention"
+  },
+  {
+    "german": "Wahrscheinlich",
+    "english": "probably",
+    "pronunciation": "Wah-shine-Likh"
+  },
+  {
+    "german": "Miteinander",
+    "english": "With each other",
+    "pronunciation": "Meti-nan-der"
+  },
+  {
+    "german": "Wieder",
+    "english": "again",
+    "pronunciation": "Ve-da"
+  },
+  {
+    "german": "Später",
+    "english": "Later",
+    "pronunciation": "Spey-ta"
+  },
+  {
+    "german": "Liest",
+    "english": "is reading/reads",
+    "pronunciation": "least"
+  },
+  {
+    "german": "Gern",
+    "english": "With joy",
+    "pronunciation": "gey-en"
+  },
+  {
+    "german": "Zusammen",
+    "english": "Togther",
+    "pronunciation": "su-zaa-men"
+  },
+  {
+    "german": "Viel",
+    "english": "Much/A lot",
+    "pronunciation": "feel"
+  },
+  {
+    "german": "Gerade",
+    "english": "Just now/right now",
+    "pronunciation": "grada"
+  },
+  {
+    "german": "wirklich",
+    "english": "really",
+    "pronunciation": "veya-klikh"
+  },
+  {
+    "german": "Nachricht",
+    "english": "message",
+    "pronunciation": "Nakh-risht"
+  },
+  {
+    "german": "karte",
+    "english": "Map",
+    "pronunciation": "karta"
+  },
+  {
+    "german": "Zeitung",
+    "english": "newspaper",
+    "pronunciation": "Tsi-tung"
+  },
+  {
+    "german": "konzentriert",
+    "english": "Concentrated",
+    "pronunciation": "Kon-tsen-triet"
+  },
 ]
