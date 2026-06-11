@@ -11,8 +11,10 @@ const QUIZ_LENGTH = 10;
 const wordCountText = document.getElementById('word-count');
 const tabStudy = document.getElementById('tab-study');
 const tabQuiz = document.getElementById('tab-quiz');
+const tabList = document.getElementById('tab-list');
 const studySection = document.getElementById('study-section');
 const quizSection = document.getElementById('quiz-section');
+const listSection = document.getElementById('list-section');
 
 // Elements - Flashcards
 const flashcard = document.getElementById('flashcard');
@@ -31,6 +33,10 @@ const quizProgressText = document.getElementById('quiz-progress-text');
 const quizScoreEl = document.getElementById('quiz-score');
 const quizTotalEl = document.getElementById('quiz-total');
 
+// Elements - List
+const searchInput = document.getElementById('search-input');
+const wordListContainer = document.getElementById('word-list');
+
 // --- INITIALIZATION ---
 async function loadWords() {
     try {
@@ -38,6 +44,7 @@ async function loadWords() {
         words = await response.json();
         wordCountText.innerText = words.length;
         updateCard();
+        renderList(); // Render dictionary list
     } catch (error) {
         germanWordEl.innerText = "Error loading words.json";
         console.error("Failed to load vocabulary:", error);
@@ -45,23 +52,35 @@ async function loadWords() {
 }
 
 // --- TAB SWITCHING ---
-tabStudy.addEventListener('click', () => {
-    tabStudy.classList.add('active');
-    tabQuiz.classList.remove('active');
-    studySection.style.display = 'flex';
+function hideAllSections() {
+    studySection.style.display = 'none';
     quizSection.style.display = 'none';
+    listSection.style.display = 'none';
+    tabStudy.classList.remove('active');
+    tabQuiz.classList.remove('active');
+    tabList.classList.remove('active');
+}
+
+tabStudy.addEventListener('click', () => {
+    hideAllSections();
+    tabStudy.classList.add('active');
+    studySection.style.display = 'flex';
 });
 
 tabQuiz.addEventListener('click', () => {
+    hideAllSections();
     tabQuiz.classList.add('active');
-    tabStudy.classList.remove('active');
     quizSection.style.display = 'flex';
-    studySection.style.display = 'none';
-    
-    // Reset to setup screen
     quizSetup.style.display = 'flex';
     quizActive.style.display = 'none';
     quizResults.style.display = 'none';
+});
+
+tabList.addEventListener('click', () => {
+    hideAllSections();
+    tabList.classList.add('active');
+    listSection.style.display = 'flex';
+    searchInput.focus(); // Auto-focus the search bar when opening list
 });
 
 // --- FLASHCARD LOGIC ---
@@ -90,7 +109,6 @@ document.getElementById('shuffle-btn').addEventListener('click', () => {
     updateCard();
 });
 
-
 // --- QUIZ LOGIC ---
 document.getElementById('start-quiz-btn').addEventListener('click', startQuiz);
 document.getElementById('restart-quiz-btn').addEventListener('click', startQuiz);
@@ -100,18 +118,13 @@ function startQuiz() {
         alert("You need at least 4 words in your vocabulary list to generate a quiz!");
         return;
     }
-
-    // Prep questions
     score = 0;
     currentQuestionIndex = 0;
-    
-    // Shuffle words and pick top 10 (or max available if less than 10)
     let shuffledWords = shuffleArray([...words]);
     let maxQuestions = Math.min(QUIZ_LENGTH, words.length);
     quizQuestions = shuffledWords.slice(0, maxQuestions);
     
     quizTotalEl.innerText = maxQuestions;
-
     quizSetup.style.display = 'none';
     quizResults.style.display = 'none';
     quizActive.style.display = 'flex';
@@ -120,16 +133,12 @@ function startQuiz() {
 }
 
 function loadQuizQuestion() {
-    quizOptionsEl.innerHTML = ''; // Clear old buttons
+    quizOptionsEl.innerHTML = ''; 
     const currentWord = quizQuestions[currentQuestionIndex];
-    
     quizProgressText.innerText = `Question ${currentQuestionIndex + 1} / ${quizQuestions.length}`;
     quizQuestionEl.innerText = currentWord.german;
 
-    // Generate options (1 correct, up to 3 wrong)
     let options = [currentWord.english];
-    
-    // Get wrong answers (distractors)
     let distractors = words.filter(w => w.english !== currentWord.english);
     distractors = shuffleArray(distractors);
     
@@ -137,10 +146,8 @@ function loadQuizQuestion() {
         options.push(distractors[i].english);
     }
 
-    // Shuffle the final options so the correct answer isn't always first
     options = shuffleArray(options);
 
-    // Create buttons
     options.forEach(optionText => {
         const btn = document.createElement('button');
         btn.classList.add('option-btn');
@@ -151,7 +158,6 @@ function loadQuizQuestion() {
 }
 
 function handleAnswer(selectedBtn, selectedText, correctText) {
-    // Disable all buttons so user can't click twice
     const allBtns = document.querySelectorAll('.option-btn');
     allBtns.forEach(btn => btn.disabled = true);
 
@@ -160,13 +166,11 @@ function handleAnswer(selectedBtn, selectedText, correctText) {
         score++;
     } else {
         selectedBtn.classList.add('wrong');
-        // Find and highlight the correct answer
         allBtns.forEach(btn => {
             if (btn.innerText === correctText) btn.classList.add('correct');
         });
     }
 
-    // Wait 1.5 seconds, then load next question or end quiz
     setTimeout(() => {
         currentQuestionIndex++;
         if (currentQuestionIndex < quizQuestions.length) {
@@ -183,8 +187,40 @@ function endQuiz() {
     quizScoreEl.innerText = score;
 }
 
+// --- LIST & SEARCH LOGIC ---
+function renderList(filterText = '') {
+    wordListContainer.innerHTML = ''; // Clear current list
+    
+    // Convert filter text to lowercase for case-insensitive matching
+    const query = filterText.toLowerCase();
+
+    // Filter the original array
+    const filteredWords = words.filter(word => {
+        return word.german.toLowerCase().includes(query) || 
+               word.english.toLowerCase().includes(query);
+    });
+
+    // Generate HTML for each matching word
+    filteredWords.forEach(word => {
+        const row = document.createElement('div');
+        row.classList.add('list-item');
+        
+        row.innerHTML = `
+            <span class="de">${word.german}</span>
+            <span class="en">${word.english}</span>
+            <span class="pron">[ ${word.pronunciation} ]</span>
+        `;
+        
+        wordListContainer.appendChild(row);
+    });
+}
+
+// Listen for typing in the search bar
+searchInput.addEventListener('input', (e) => {
+    renderList(e.target.value);
+});
+
 // --- UTILITIES ---
-// Helper function to shuffle arrays randomly
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
