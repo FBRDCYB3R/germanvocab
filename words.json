@@ -538,10 +538,25 @@
     "german": "Nett",
     "english": "Nice",
     "pronunciation": "net"
-  }
+  },
   {
     "german": "Hübsch",
     "english": "pretty",
     "pronunciation": "hoobsch"
-  }
+  },
+ {
+    "german": "Schon wieder",
+    "english": "yet again",
+    "pronunciation": "shon vida"
+ },
+ {
+    "german": "Ihr Seid",
+    "english": "you are (plural)",
+    "pronunciation": "Ia zeed"
+ },
+ {
+    "german": "Gut drauf",
+    "english": "In a good mood",
+    "pronunciation": "goot drauf"
+ }
 ]
