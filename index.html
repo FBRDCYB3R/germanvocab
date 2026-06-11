@@ -20,11 +20,13 @@
         <nav class="tabs">
             <button class="tab active" id="tab-study">STUDY</button>
             <button class="tab" id="tab-quiz">QUIZ</button>
+            <button class="tab" id="tab-list">WORD LIST</button>
             <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/edit/main/words.json" target="_blank" class="tab link">ADD WORD (GITHUB)</a>
         </nav>
     </header>
 
     <main>
+        <!-- STUDY SECTION (Flashcards) -->
         <div id="study-section">
             <div class="flashcard-container" id="card-container">
                 <div class="flashcard" id="flashcard">
@@ -48,8 +50,8 @@
             </div>
         </div>
 
+        <!-- QUIZ SECTION -->
         <div id="quiz-section" style="display: none;">
-            
             <div id="quiz-setup" class="quiz-panel">
                 <h2>Ready to test your knowledge?</h2>
                 <p class="quiz-desc">This will pull 10 random words from your vocabulary list.</p>
@@ -61,8 +63,7 @@
                     <span class="progress" id="quiz-progress-text">Question 1 / 10</span>
                 </div>
                 <h2 id="quiz-question" class="quiz-prompt">Word</h2>
-                <div id="quiz-options" class="options-grid">
-                    </div>
+                <div id="quiz-options" class="options-grid"></div>
             </div>
 
             <div id="quiz-results" class="quiz-panel" style="display: none;">
@@ -72,7 +73,14 @@
                 </div>
                 <button id="restart-quiz-btn" class="action-btn" style="margin-top: 2rem;">Take Another Quiz</button>
             </div>
+        </div>
 
+        <!-- WORD LIST SECTION -->
+        <div id="list-section" style="display: none;">
+            <input type="text" id="search-input" class="search-bar" placeholder="Search German or English words...">
+            <div id="word-list" class="word-list-container">
+                <!-- List items injected via JS -->
+            </div>
         </div>
     </main>
 
