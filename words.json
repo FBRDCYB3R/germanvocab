@@ -530,8 +530,18 @@
     "pronunciation": "mia"
   },
   {
-    "german": "test",
-    "english": "sea",
-    "pronunciation": "mia"
+    "german": "Bist",
+    "english": "You are",
+    "pronunciation": "Beest"
+  },
+  {
+    "german": "Nett",
+    "english": "Nice",
+    "pronunciation": "net"
+  }
+  {
+    "german": "Hübsch",
+    "english": "pretty",
+    "pronunciation": "hoobsch"
   }
 ]
