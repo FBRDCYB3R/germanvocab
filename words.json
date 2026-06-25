@@ -563,5 +563,510 @@
     "german": "Viele",
     "english": "Many",
     "pronunciation": "feelah"
- }
+ },
+  {
+    "german": "kein",
+    "english": "no (masculine/neuter noun)",
+    "pronunciation": "kyn"
+  },
+  {
+    "german": "keine",
+    "english": "no (feminine/plural noun)",
+    "pronunciation": "ky-nuh"
+  },
+  {
+    "german": "mein",
+    "english": "my (masculine/neuter noun)",
+    "pronunciation": "myn"
+  },
+  {
+    "german": "meine",
+    "english": "my (feminine/plural noun)",
+    "pronunciation": "my-nuh"
+  },
+  {
+    "german": "diese",
+    "english": "this (feminine noun), these (plural noun)",
+    "pronunciation": "dee-zuh"
+  },
+  {
+    "german": "dieses",
+    "english": "this (neuter noun)",
+    "pronunciation": "dee-zes"
+  },
+  {
+    "german": "seine",
+    "english": "his (feminine/plural noun)",
+    "pronunciation": "zy-nuh"
+  },
+  {
+    "german": "Superheld",
+    "english": "superhero",
+    "pronunciation": "zoo-per-helt"
+  },
+  {
+    "german": "Russisch",
+    "english": "Russian (language)",
+    "pronunciation": "roos-ish"
+  },
+  {
+    "german": "Zeitschrift",
+    "english": "magazine",
+    "pronunciation": "tsyt-shrift"
+  },
+  {
+    "german": "Farbe",
+    "english": "paint, colour",
+    "pronunciation": "fahr-buh"
+  },
+  {
+    "german": "Strand",
+    "english": "beach",
+    "pronunciation": "shtrahnt"
+  },
+  {
+    "german": "Musik",
+    "english": "music",
+    "pronunciation": "moo-zeek"
+  },
+  {
+    "german": "Natur",
+    "english": "nature",
+    "pronunciation": "nah-toor"
+  },
+  {
+    "german": "Deutschland",
+    "english": "Germany",
+    "pronunciation": "doich-lahnt"
+  },
+  {
+    "german": "Stadt",
+    "english": "city",
+    "pronunciation": "shtaht"
+  },
+  {
+    "german": "Land",
+    "english": "country, countryside",
+    "pronunciation": "lahnt"
+  },
+  {
+    "german": "Schwester",
+    "english": "sister",
+    "pronunciation": "shves-ter"
+  },
+  {
+    "german": "Delfin",
+    "english": "dolphin",
+    "pronunciation": "del-feen"
+  },
+  {
+    "german": "Berg",
+    "english": "mountain",
+    "pronunciation": "berk"
+  },
+  {
+    "german": "Tier",
+    "english": "animal",
+    "pronunciation": "teer"
+  },
+  {
+    "german": "Fuchs",
+    "english": "fox",
+    "pronunciation": "fooks"
+  },
+  {
+    "german": "Wald",
+    "english": "forest",
+    "pronunciation": "valt"
+  },
+  {
+    "german": "Dorf",
+    "english": "village",
+    "pronunciation": "dorf"
+  },
+  {
+    "german": "Gedicht",
+    "english": "poem",
+    "pronunciation": "ge-dikht"
+  },
+  {
+    "german": "Büro",
+    "english": "office",
+    "pronunciation": "bue-roh"
+  },
+  {
+    "german": "Baustelle",
+    "english": "construction site",
+    "pronunciation": "bow-shtel-eh"
+  },
+  {
+    "german": "Schule",
+    "english": "school",
+    "pronunciation": "shoo-leh"
+  },
+  {
+    "german": "Werkstatt",
+    "english": "garage",
+    "pronunciation": "verk-shtat"
+  },
+  {
+    "german": "Mechaniker",
+    "english": "mechanic",
+    "pronunciation": "me-khah-nee-ker"
+  },
+  {
+    "german": "Labor",
+    "english": "laboratory",
+    "pronunciation": "lah-bor"
+  },
+  {
+    "german": "Arbeit",
+    "english": "work",
+    "pronunciation": "ahr-byt"
+  },
+  {
+    "german": "Jahr",
+    "english": "year",
+    "pronunciation": "yahr"
+  },
+  {
+    "german": "Sommer",
+    "english": "summer",
+    "pronunciation": "zom-mer"
+  },
+  {
+    "german": "Freund",
+    "english": "friend, boyfriend",
+    "pronunciation": "froynd"
+  },
+  {
+    "german": "Jungen",
+    "english": "boys",
+    "pronunciation": "yoong-en"
+  },
+  {
+    "german": "Glocken",
+    "english": "bells",
+    "pronunciation": "glok-en"
+  },
+  {
+    "german": "Franzosen",
+    "english": "French (people)",
+    "pronunciation": "frants-oh-zen"
+  },
+  {
+    "german": "Maschinen",
+    "english": "machines",
+    "pronunciation": "mah-shee-nen"
+  },
+  {
+    "german": "Jahre",
+    "english": "years",
+    "pronunciation": "yah-reh"
+  },
+  {
+    "german": "man",
+    "english": "one, you (people in general)",
+    "pronunciation": "mahn"
+  },
+  {
+    "german": "mich",
+    "english": "me",
+    "pronunciation": "mikh"
+  },
+  {
+    "german": "niedlich",
+    "english": "cute",
+    "pronunciation": "need-likh"
+  },
+  {
+    "german": "fröhlich",
+    "english": "cheerful",
+    "pronunciation": "fruh-likh"
+  },
+  {
+    "german": "stark",
+    "english": "strong",
+    "pronunciation": "shtahrk"
+  },
+  {
+    "german": "sympathisch",
+    "english": "likeable",
+    "pronunciation": "zue-mpah-tish"
+  },
+  {
+    "german": "glücklich",
+    "english": "happy",
+    "pronunciation": "gluek-likh"
+  },
+  {
+    "german": "klassisch",
+    "english": "classic, classical",
+    "pronunciation": "klahs-sish"
+  },
+  {
+    "german": "ruhig",
+    "english": "quiet, calm",
+    "pronunciation": "roo-ikh"
+  },
+  {
+    "german": "laut",
+    "english": "loud",
+    "pronunciation": "lowt"
+  },
+  {
+    "german": "arm",
+    "english": "poor",
+    "pronunciation": "ahrm"
+  },
+  {
+    "german": "reich",
+    "english": "rich",
+    "pronunciation": "rykh"
+  },
+  {
+    "german": "gefährlich",
+    "english": "dangerous",
+    "pronunciation": "ge-fair-likh"
+  },
+  {
+    "german": "hören",
+    "english": "to hear, listen (to music)",
+    "pronunciation": "hur-en"
+  },
+  {
+    "german": "leben",
+    "english": "to live",
+    "pronunciation": "lay-ben"
+  },
+  {
+    "german": "arbeiten",
+    "english": "to work",
+    "pronunciation": "ahr-by-ten"
+  },
+  {
+    "german": "lieben",
+    "english": "to love",
+    "pronunciation": "lee-ben"
+  },
+  {
+    "german": "mit",
+    "english": "with",
+    "pronunciation": "mit"
+  },
+  {
+    "german": "so",
+    "english": "like that, so",
+    "pronunciation": "zoh"
+  },
+  {
+    "german": "nichts",
+    "english": "nothing",
+    "pronunciation": "nikhts"
+  },
+  {
+    "german": "nur",
+    "english": "only",
+    "pronunciation": "noor"
+  },
+  {
+    "german": "auf",
+    "english": "on",
+    "pronunciation": "owf"
+  },
+  {
+    "german": "an",
+    "english": "at, on",
+    "pronunciation": "ahn"
+  },
+  {
+    "german": "wo",
+    "english": "where",
+    "pronunciation": "voh"
+  },
+  {
+    "german": "als",
+    "english": "as (+profession)",
+    "pronunciation": "ahls"
+  },
+  {
+    "german": "abends",
+    "english": "in the evenings",
+    "pronunciation": "ah-bents"
+  },
+  {
+    "german": "manchmal",
+    "english": "sometimes",
+    "pronunciation": "mahnkh-mahl"
+  },
+  {
+    "german": "heute",
+    "english": "today",
+    "pronunciation": "hoy-teh"
+  },
+  {
+    "german": "morgen",
+    "english": "tomorrow",
+    "pronunciation": "mor-gen"
+  },
+  {
+    "german": "samstags",
+    "english": "on Saturdays",
+    "pronunciation": "zahm-stahks"
+  },
+  {
+    "german": "wie",
+    "english": "how",
+    "pronunciation": "vee"
+  },
+  {
+    "german": "schon",
+    "english": "already",
+    "pronunciation": "shohn"
+  },
+  {
+    "german": "seit",
+    "english": "since, for",
+    "pronunciation": "zyt"
+  },
+  {
+    "german": "fünf",
+    "english": "five",
+    "pronunciation": "fuenf"
+  },
+  {
+    "german": "lange",
+    "english": "long (a long time)",
+    "pronunciation": "lahng-eh"
+  },
+  {
+    "german": "immer",
+    "english": "always",
+    "pronunciation": "im-mer"
+  },
+  {
+    "german": "von",
+    "english": "from, of",
+    "pronunciation": "fon"
+  },
+  {
+    "german": "überall",
+    "english": "everywhere",
+    "pronunciation": "ue-ber-ahl"
+  },
+  {
+    "german": "noch nicht",
+    "english": "not yet",
+    "pronunciation": "nokh nikht"
+  },
+  {
+    "german": "jeden Tag",
+    "english": "every day",
+    "pronunciation": "yay-den tahk"
+  },
+  {
+    "german": "was für",
+    "english": "what kind of",
+    "pronunciation": "vahs fuer"
+  },
+  {
+    "german": "wie lange",
+    "english": "how long",
+    "pronunciation": "vee lahng-eh"
+  },
+  {
+    "german": "seit fünf Jahren",
+    "english": "for five years",
+    "pronunciation": "zyt fuenf yah-ren"
+  },
+  {
+    "german": "Männer",
+    "english": "men",
+    "pronunciation": "men-ner"
+  },
+  {
+    "german": "Kinder",
+    "english": "children",
+    "pronunciation": "kin-der"
+  },
+  {
+    "german": "Zeitschriften",
+    "english": "magazines",
+    "pronunciation": "tsyt-shrif-ten"
+  },
+  {
+    "german": "portugiesisch",
+    "english": "Portuguese",
+    "pronunciation": "por-too-gee-zish"
+  },
+  {
+    "german": "deutsch",
+    "english": "German",
+    "pronunciation": "doich"
+  },
+  {
+    "german": "großartig",
+    "english": "great",
+    "pronunciation": "grohs-ahr-tikh"
+  },
+  {
+    "german": "schlafen",
+    "english": "to sleep",
+    "pronunciation": "shlah-fen"
+  },
+  {
+    "german": "spielen",
+    "english": "to play",
+    "pronunciation": "shpee-len"
+  },
+  {
+    "german": "lesen",
+    "english": "to read",
+    "pronunciation": "lay-zen"
+  },
+  {
+    "german": "hallo",
+    "english": "hello",
+    "pronunciation": "hah-loh"
+  },
+  {
+    "german": "hier",
+    "english": "here",
+    "pronunciation": "heer"
+  },
+  {
+    "german": "danke",
+    "english": "thanks",
+    "pronunciation": "dahn-keh"
+  },
+  {
+    "german": "alle",
+    "english": "all, everybody",
+    "pronunciation": "ahl-eh"
+  },
+  {
+    "german": "ziemlich",
+    "english": "quite, pretty",
+    "pronunciation": "tseem-likh"
+  },
+  {
+    "german": "zu",
+    "english": "too (+adj.)",
+    "pronunciation": "tsoo"
+  },
+  {
+    "german": "bestimmt",
+    "english": "certainly, for sure",
+    "pronunciation": "be-shtimt"
+  },
+  {
+    "german": "zu Hause",
+    "english": "at home",
+    "pronunciation": "tsoo how-zeh"
+  },
+  {
+    "german": "am Telefon",
+    "english": "on the phone",
+    "pronunciation": "ahm te-le-fohn"
+  }
 ]
