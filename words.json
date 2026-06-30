@@ -544,26 +544,26 @@
     "english": "pretty",
     "pronunciation": "hoobsch"
   },
- {
+  {
     "german": "Schon wieder",
     "english": "yet again",
     "pronunciation": "shon vida"
- },
- {
+  },
+  {
     "german": "Ihr Seid",
     "english": "you are (plural)",
     "pronunciation": "Ia zeed"
- },
- {
+  },
+  {
     "german": "Gut drauf",
     "english": "In a good mood",
     "pronunciation": "goot drauf"
- },
-   {
+  },
+  {
     "german": "Viele",
     "english": "Many",
     "pronunciation": "feelah"
- },
+  },
   {
     "german": "kein",
     "english": "no (masculine/neuter noun)",
@@ -1068,5 +1068,120 @@
     "german": "am Telefon",
     "english": "on the phone",
     "pronunciation": "ahm te-le-fohn"
+  },
+  {
+    "german": "dein",
+    "english": "your (followed by masculine or neuter noun)",
+    "pronunciation": "dine"
+  },
+  {
+    "german": "deine",
+    "english": "your (followed by feminine or plural noun)",
+    "pronunciation": "dine-uh"
+  },
+  {
+    "german": "sein",
+    "english": "his (followed by masculine or neuter noun)",
+    "pronunciation": "zine"
+  },
+  {
+    "german": "ihr",
+    "english": "her (followed by masculine or neuter noun)",
+    "pronunciation": "iya"
+  },
+  {
+    "german": "ihre",
+    "english": "her (followed by feminine or plural noun)",
+    "pronunciation": "ira"
+  },
+  {
+    "german": "Januar (m.)",
+    "english": "January",
+    "pronunciation": "yan-ua"
+  },
+  {
+    "german": "Tisch (m.)",
+    "english": "table",
+    "pronunciation": "teesh"
+  },
+  {
+    "german": "super",
+    "english": "super (this adjective doesn't change!)",
+    "pronunciation": "zupa"
+  },
+  {
+    "german": "glauben",
+    "english": "to believe",
+    "pronunciation": "glau-ben"
+  },
+  {
+    "german": "unter",
+    "english": "under",
+    "pronunciation": "oonta"
+  },
+  {
+    "german": "neben",
+    "english": "next to",
+    "pronunciation": "knee-bin"
+  },
+  {
+    "german": "vor",
+    "english": "before, in front of",
+    "pronunciation": "fo"
+  },
+  {
+    "german": "hinter",
+    "english": "behind",
+    "pronunciation": "hinta"
+  },
+  {
+    "german": "im Bett",
+    "english": "in bed",
+    "pronunciation": "im bet"
+  },
+  {
+    "german": "im Park",
+    "english": "in the park",
+    "pronunciation": "im pak"
+  },
+  {
+    "german": "im Meer",
+    "english": "in the sea",
+    "pronunciation": ""
+  },
+  {
+    "german": "am Meer",
+    "english": "at the sea",
+    "pronunciation": "im mea"
+  },
+  {
+    "german": "auf dem Land",
+    "english": "in the country (countryside)",
+    "pronunciation": "auf dem lant"
+  },
+  {
+    "german": "in einem Dorf",
+    "english": "in a village",
+    "pronunciation": "in eyenem dof"
+  },
+  {
+    "german": "in der Stadt",
+    "english": "in the city",
+    "pronunciation": "in dea Shtat"
+  },
+  {
+    "german": "in der Schule",
+    "english": "in school",
+    "pronunciation": "in dea shoola"
+  },
+  {
+    "german": "in den Bergen",
+    "english": "in the mountains",
+    "pronunciation": "in den beagen"
+  },
+  {
+    "german": "im Wald",
+    "english": "in the forest",
+    "pronunciation": "im walt"
   }
 ]
