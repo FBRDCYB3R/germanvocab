@@ -1188,5 +1188,825 @@
     "german": "Möchte",
     "english": "I wish/Iwant",
     "pronunciation": "mesh-ta"
+  },
+  {
+    "german": "dieser",
+    "english": "this (+masculine noun)",
+    "pronunciation": "dee-zer"
+  },
+  {
+    "german": "unser",
+    "english": "our (+masculine or neuter noun)",
+    "pronunciation": "oon-zer"
+  },
+  {
+    "german": "unsere",
+    "english": "our (+feminine or plural noun)",
+    "pronunciation": "oon-ze-reh"
+  },
+  {
+    "german": "Hunger (m.)",
+    "english": "hunger",
+    "pronunciation": "hoong-er"
+  },
+  {
+    "german": "Durst (m.)",
+    "english": "thirst",
+    "pronunciation": "doorst"
+  },
+  {
+    "german": "Fahrrad (n.)",
+    "english": "bicycle",
+    "pronunciation": "fahr-raht"
+  },
+  {
+    "german": "Uhr (f.)",
+    "english": "clock, watch, also: o'clock",
+    "pronunciation": "oor"
+  },
+  {
+    "german": "Mutter (f.)",
+    "english": "mother",
+    "pronunciation": "moot-ter"
+  },
+  {
+    "german": "Spaß (m.)",
+    "english": "fun",
+    "pronunciation": "shpahs"
+  },
+  {
+    "german": "Kuscheltier (n.)",
+    "english": "stuffed animal",
+    "pronunciation": "koosh-el-teer"
+  },
+  {
+    "german": "Geld (n.)",
+    "english": "money",
+    "pronunciation": "gelt"
+  },
+  {
+    "german": "Zeit (f.)",
+    "english": "time",
+    "pronunciation": "tsyt"
+  },
+  {
+    "german": "Urlaub (m.)",
+    "english": "vacation, time off work",
+    "pronunciation": "oor-lowp"
+  },
+  {
+    "german": "Viertel (n.)",
+    "english": "quarter",
+    "pronunciation": "feer-tel"
+  },
+  {
+    "german": "Bruder (m.)",
+    "english": "brother",
+    "pronunciation": "broo-der"
+  },
+  {
+    "german": "Unterricht (m.)",
+    "english": "lesson, lessons, teachings",
+    "pronunciation": "oon-ter-rikht"
+  },
+  {
+    "german": "Job (m.)",
+    "english": "job",
+    "pronunciation": "jop"
+  },
+  {
+    "german": "Plan (m.)",
+    "english": "plan",
+    "pronunciation": "plahn"
+  },
+  {
+    "german": "Kaffee (m.)",
+    "english": "coffee",
+    "pronunciation": "kah-fay"
+  },
+  {
+    "german": "Eis (n.)",
+    "english": "ice-cream, ice",
+    "pronunciation": "ice"
+  },
+  {
+    "german": "Antwort (f.)",
+    "english": "answer",
+    "pronunciation": "ahnt-vort"
+  },
+  {
+    "german": "Mama (f.)",
+    "english": "mom",
+    "pronunciation": "mah-mah"
+  },
+  {
+    "german": "Tee (m.)",
+    "english": "tea",
+    "pronunciation": "tay"
+  },
+  {
+    "german": "Wurst (f.)",
+    "english": "sausage",
+    "pronunciation": "voorst"
+  },
+  {
+    "german": "Golfschläger (m.)",
+    "english": "golf club",
+    "pronunciation": "golf-shlay-ger"
+  },
+  {
+    "german": "Jacke (f.)",
+    "english": "jacket",
+    "pronunciation": "yah-keh"
+  },
+  {
+    "german": "Kunde (m.)",
+    "english": "customer",
+    "pronunciation": "koon-deh"
+  },
+  {
+    "german": "Haarschnitt (m.)",
+    "english": "haircut",
+    "pronunciation": "hahr-shnit"
+  },
+  {
+    "german": "Gast (m.)",
+    "english": "guest",
+    "pronunciation": "gahst"
+  },
+  {
+    "german": "Bier (n.)",
+    "english": "beer",
+    "pronunciation": "beer"
+  },
+  {
+    "german": "Idee (f.)",
+    "english": "idea",
+    "pronunciation": "ee-day"
+  },
+  {
+    "german": "Person (f.)",
+    "english": "person",
+    "pronunciation": "per-zohn"
+  },
+  {
+    "german": "Hilfe (f.)",
+    "english": "help",
+    "pronunciation": "hil-feh"
+  },
+  {
+    "german": "Wasser (n.)",
+    "english": "water",
+    "pronunciation": "vahs-ser"
+  },
+  {
+    "german": "Sonnenbrille (f.)",
+    "english": "sunglasses",
+    "pronunciation": "zon-nen-bril-leh"
+  },
+  {
+    "german": "Pause (f.)",
+    "english": "break, pause",
+    "pronunciation": "pow-zeh"
+  },
+  {
+    "german": "Taxi (n.)",
+    "english": "taxi, cab",
+    "pronunciation": "tahk-see"
+  },
+  {
+    "german": "Tasse (f.)",
+    "english": "mug, cup",
+    "pronunciation": "tahs-seh"
+  },
+  {
+    "german": "Hose (f.)",
+    "english": "trousers, pants",
+    "pronunciation": "hoh-zeh"
+  },
+  {
+    "german": "Dusche (f.)",
+    "english": "shower",
+    "pronunciation": "doo-sheh"
+  },
+  {
+    "german": "Kopfschmerztablette (f.)",
+    "english": "painkiller (for headaches)",
+    "pronunciation": "kopf-shmerts-tah-blet-teh"
+  },
+  {
+    "german": "Föhn (m.)",
+    "english": "hair dryer",
+    "pronunciation": "furn"
+  },
+  {
+    "german": "Taschentuch (n.)",
+    "english": "tissue, handkerchief",
+    "pronunciation": "tahsh-en-tookh"
+  },
+  {
+    "german": "Motorrad (n.)",
+    "english": "motorbike",
+    "pronunciation": "moh-tor-raht"
+  },
+  {
+    "german": "Geige (f.)",
+    "english": "violin",
+    "pronunciation": "gy-geh"
+  },
+  {
+    "german": "Lichtschalter (m.)",
+    "english": "light switch",
+    "pronunciation": "likht-shahl-ter"
+  },
+  {
+    "german": "Sonne (f.)",
+    "english": "sun",
+    "pronunciation": "zon-neh"
+  },
+  {
+    "german": "Sonnenhut (m.)",
+    "english": "sunhat",
+    "pronunciation": "zon-nen-hoot"
+  },
+  {
+    "german": "Training (n.)",
+    "english": "training, exercise",
+    "pronunciation": "tray-ning"
+  },
+  {
+    "german": "Limo, Limonade (f.)",
+    "english": "lemonade",
+    "pronunciation": "lee-moh, lee-moh-nah-deh"
+  },
+  {
+    "german": "Sonnencreme (f.)",
+    "english": "sunlotion",
+    "pronunciation": "zon-nen-kraym"
+  },
+  {
+    "german": "Text (m.)",
+    "english": "text",
+    "pronunciation": "tekst"
+  },
+  {
+    "german": "Familie (f.)",
+    "english": "family",
+    "pronunciation": "fah-mee-lee-eh"
+  },
+  {
+    "german": "Pflegerin (f.)",
+    "english": "nurse (female)",
+    "pronunciation": "p-flay-ge-rin"
+  },
+  {
+    "german": "Krankenhaus (n.)",
+    "english": "hospital",
+    "pronunciation": "krahnk-en-hows"
+  },
+  {
+    "german": "Pfleger (m.)",
+    "english": "nurse (male)",
+    "pronunciation": "p-flay-ger"
+  },
+  {
+    "german": "Wochenende (n.)",
+    "english": "weekend",
+    "pronunciation": "vokh-en-en-deh"
+  },
+  {
+    "german": "Vater (m.)",
+    "english": "father",
+    "pronunciation": "fah-ter"
+  },
+  {
+    "german": "Informatik (f.)",
+    "english": "IT",
+    "pronunciation": "in-for-mah-tik"
+  },
+  {
+    "german": "Tante (f.)",
+    "english": "aunt",
+    "pronunciation": "tahn-teh"
+  },
+  {
+    "german": "Onkel (m.)",
+    "english": "uncle",
+    "pronunciation": "ong-kel"
+  },
+  {
+    "german": "Australien",
+    "english": "Australia",
+    "pronunciation": "ows-trahl-yen"
+  },
+  {
+    "german": "Wohnung (f.)",
+    "english": "apartment, flat",
+    "pronunciation": "voh-noong"
+  },
+  {
+    "german": "Balkon (m.)",
+    "english": "balcony",
+    "pronunciation": "bahl-kohn"
+  },
+  {
+    "german": "Garten (m.)",
+    "english": "garden",
+    "pronunciation": "gahr-ten"
+  },
+  {
+    "german": "Name (m.)",
+    "english": "name",
+    "pronunciation": "nah-meh"
+  },
+  {
+    "german": "Vögel",
+    "english": "birds",
+    "pronunciation": "fur-gel"
+  },
+  {
+    "german": "Freunde",
+    "english": "friends",
+    "pronunciation": "froyn-deh"
+  },
+  {
+    "german": "Schuhe",
+    "english": "shoes",
+    "pronunciation": "shoo-eh"
+  },
+  {
+    "german": "Feuerwehrmänner",
+    "english": "firefighters",
+    "pronunciation": "foy-er-vair-men-ner"
+  },
+  {
+    "german": "Elefanten",
+    "english": "elephants",
+    "pronunciation": "eh-leh-fahn-ten"
+  },
+  {
+    "german": "Eltern",
+    "english": "parents",
+    "pronunciation": "el-tern"
+  },
+  {
+    "german": "Geschwister",
+    "english": "siblings",
+    "pronunciation": "ge-shvis-ter"
+  },
+  {
+    "german": "sie (f., Akk.)",
+    "english": "her",
+    "pronunciation": "zee"
+  },
+  {
+    "german": "ihn (m., Akk.)",
+    "english": "him",
+    "pronunciation": "een"
+  },
+  {
+    "german": "dich (Akk.)",
+    "english": "you (informal, singular)",
+    "pronunciation": "dikh"
+  },
+  {
+    "german": "uns (Akk.)",
+    "english": "us",
+    "pronunciation": "oons"
+  },
+  {
+    "german": "euch (Akk.)",
+    "english": "you (informal, plural)",
+    "pronunciation": "oykh"
+  },
+  {
+    "german": "mir (Dat.)",
+    "english": "me",
+    "pronunciation": "meer"
+  },
+  {
+    "german": "dir (Dat.)",
+    "english": "you (informal, singular)",
+    "pronunciation": "deer"
+  },
+  {
+    "german": "blond",
+    "english": "blond",
+    "pronunciation": "blont"
+  },
+  {
+    "german": "jünger",
+    "english": "younger",
+    "pronunciation": "yueng-er"
+  },
+  {
+    "german": "heiß",
+    "english": "hot",
+    "pronunciation": "hys"
+  },
+  {
+    "german": "spät",
+    "english": "late",
+    "pronunciation": "shpayt"
+  },
+  {
+    "german": "älter",
+    "english": "older",
+    "pronunciation": "el-ter"
+  },
+  {
+    "german": "kurz",
+    "english": "short",
+    "pronunciation": "koorts"
+  },
+  {
+    "german": "größer",
+    "english": "bigger, taller",
+    "pronunciation": "grur-ser"
+  },
+  {
+    "german": "krank",
+    "english": "ill, sick",
+    "pronunciation": "krahnk"
+  },
+  {
+    "german": "kühl",
+    "english": "cool",
+    "pronunciation": "kuel"
+  },
+  {
+    "german": "müde",
+    "english": "tired",
+    "pronunciation": "mue-deh"
+  },
+  {
+    "german": "gestresst",
+    "english": "stressed",
+    "pronunciation": "ge-shtrest"
+  },
+  {
+    "german": "unglaublich",
+    "english": "unbelievable, unbelievably",
+    "pronunciation": "oon-glowp-likh"
+  },
+  {
+    "german": "haben",
+    "english": "to have",
+    "pronunciation": "hah-ben"
+  },
+  {
+    "german": "möchten",
+    "english": "would like to (have)",
+    "pronunciation": "murkh-ten"
+  },
+  {
+    "german": "fliegen",
+    "english": "to fly",
+    "pronunciation": "flee-gen"
+  },
+  {
+    "german": "kaufen",
+    "english": "to buy",
+    "pronunciation": "kow-fen"
+  },
+  {
+    "german": "bezahlen",
+    "english": "to pay",
+    "pronunciation": "be-tsah-len"
+  },
+  {
+    "german": "gehen",
+    "english": "to go",
+    "pronunciation": "gay-en"
+  },
+  {
+    "german": "trinken",
+    "english": "to drink",
+    "pronunciation": "tring-ken"
+  },
+  {
+    "german": "essen",
+    "english": "to eat",
+    "pronunciation": "es-sen"
+  },
+  {
+    "german": "können",
+    "english": "can, to be able to",
+    "pronunciation": "ker-nen"
+  },
+  {
+    "german": "fahren",
+    "english": "to drive, to ride",
+    "pronunciation": "fah-ren"
+  },
+  {
+    "german": "brauchen",
+    "english": "to need",
+    "pronunciation": "brow-khen"
+  },
+  {
+    "german": "rennen",
+    "english": "to run",
+    "pronunciation": "ren-nen"
+  },
+  {
+    "german": "schwimmen",
+    "english": "to swim",
+    "pronunciation": "shvim-men"
+  },
+  {
+    "german": "singen",
+    "english": "to sing",
+    "pronunciation": "zing-en"
+  },
+  {
+    "german": "tanzen",
+    "english": "to dance",
+    "pronunciation": "tahnt-sen"
+  },
+  {
+    "german": "sehen",
+    "english": "to see",
+    "pronunciation": "zay-en"
+  },
+  {
+    "german": "springen",
+    "english": "to jump",
+    "pronunciation": "shpring-en"
+  },
+  {
+    "german": "kotzen",
+    "english": "to puke, throw up (informal)",
+    "pronunciation": "kot-sen"
+  },
+  {
+    "german": "blenden",
+    "english": "to blind (sun)",
+    "pronunciation": "blen-den"
+  },
+  {
+    "german": "helfen",
+    "english": "to help",
+    "pronunciation": "hel-fen"
+  },
+  {
+    "german": "bekommen",
+    "english": "to get",
+    "pronunciation": "be-kom-men"
+  },
+  {
+    "german": "holen",
+    "english": "to get, to fetch",
+    "pronunciation": "hoh-len"
+  },
+  {
+    "german": "heißen",
+    "english": "to be called",
+    "pronunciation": "hys-sen"
+  },
+  {
+    "german": "bauen",
+    "english": "to build",
+    "pronunciation": "bow-en"
+  },
+  {
+    "german": "wandern",
+    "english": "to hike",
+    "pronunciation": "vahn-dern"
+  },
+  {
+    "german": "studieren",
+    "english": "to study (at university)",
+    "pronunciation": "shtoo-dee-ren"
+  },
+  {
+    "german": "liegen",
+    "english": "to lie (horizontal position)",
+    "pronunciation": "lee-gen"
+  },
+  {
+    "german": "deswegen, deshalb, darum",
+    "english": "because of that",
+    "pronunciation": "des-vay-gen, des-hahlp, dah-room"
+  },
+  {
+    "german": "aber",
+    "english": "but",
+    "pronunciation": "ah-ber"
+  },
+  {
+    "german": "sieben",
+    "english": "seven",
+    "pronunciation": "zee-ben"
+  },
+  {
+    "german": "sechs",
+    "english": "six",
+    "pronunciation": "zeks"
+  },
+  {
+    "german": "nach",
+    "english": "after, past",
+    "pronunciation": "nahkh"
+  },
+  {
+    "german": "jemand",
+    "english": "somebody",
+    "pronunciation": "yay-mahnt"
+  },
+  {
+    "german": "etwas",
+    "english": "something",
+    "pronunciation": "et-vahs"
+  },
+  {
+    "german": "vielleicht",
+    "english": "maybe",
+    "pronunciation": "fee-lykht"
+  },
+  {
+    "german": "gleich",
+    "english": "in a moment",
+    "pronunciation": "glykh"
+  },
+  {
+    "german": "danach",
+    "english": "after that",
+    "pronunciation": "dah-nahkh"
+  },
+  {
+    "german": "bitte",
+    "english": "please, also: here you are/go, generally answering to 'danke'",
+    "pronunciation": "bit-teh"
+  },
+  {
+    "german": "dann",
+    "english": "then",
+    "pronunciation": "dahn"
+  },
+  {
+    "german": "einmal",
+    "english": "once",
+    "pronunciation": "ayn-mahl"
+  },
+  {
+    "german": "zweiunddreißig",
+    "english": "32 (lit.: two-and-thirty)",
+    "pronunciation": "tsvy-oont-dry-sikh"
+  },
+  {
+    "german": "neununddreißig",
+    "english": "39 (nine-and-thirty)",
+    "pronunciation": "noyn-oont-dry-sikh"
+  },
+  {
+    "german": "stundenlang",
+    "english": "for hours at a time",
+    "pronunciation": "shtoon-den-lahng"
+  },
+  {
+    "german": "ganz",
+    "english": "whole, completely",
+    "pronunciation": "gahnts"
+  },
+  {
+    "german": "tagsüber",
+    "english": "during the day",
+    "pronunciation": "tahks-ue-ber"
+  },
+  {
+    "german": "nachts",
+    "english": "at night",
+    "pronunciation": "nahkhts"
+  },
+  {
+    "german": "vierundzwanzig",
+    "english": "24 (four-and-twenty)",
+    "pronunciation": "feer-oont-tsvahnt-sikh"
+  },
+  {
+    "german": "lieber",
+    "english": "preferrably, rather",
+    "pronunciation": "lee-ber"
+  },
+  {
+    "german": "für",
+    "english": "for",
+    "pronunciation": "fuer"
+  },
+  {
+    "german": "jeder, jede, jedes",
+    "english": "each, every",
+    "pronunciation": "yay-der, yay-deh, yay-des"
+  },
+  {
+    "german": "kein/keine [Nomen] mehr",
+    "english": "no more (+noun)",
+    "pronunciation": "kyn/ky-neh mair"
+  },
+  {
+    "german": "Hunger haben",
+    "english": "to be hungry (lit. to have hunger)",
+    "pronunciation": "hoong-er hah-ben"
+  },
+  {
+    "german": "Durst haben",
+    "english": "to be thirsty",
+    "pronunciation": "doorst hah-ben"
+  },
+  {
+    "german": "halb [Stunde]",
+    "english": "half (of the full hour, e.g. halb sieben = 6:30)",
+    "pronunciation": "hahlp"
+  },
+  {
+    "german": "Zeit haben",
+    "english": "to have time",
+    "pronunciation": "tsyt hah-ben"
+  },
+  {
+    "german": "Urlaub haben",
+    "english": "to be on vacation, to have time off work",
+    "pronunciation": "oor-lowp hah-ben"
+  },
+  {
+    "german": "Viertel nach [Stunde]",
+    "english": "a quarter past (+hour)",
+    "pronunciation": "feer-tel nahkh"
+  },
+  {
+    "german": "Viertel vor [Stunde]",
+    "english": "a quarter to (+hour)",
+    "pronunciation": "feer-tel for"
+  },
+  {
+    "german": "wie viel Uhr, wie spät",
+    "english": "what time (lit. how much o'clock, how late)",
+    "pronunciation": "vee feel oor, vee shpayt"
+  },
+  {
+    "german": "nach Hause gehen",
+    "english": "to go home",
+    "pronunciation": "nahkh how-zeh gay-en"
+  },
+  {
+    "german": "etwas zu essen/zu trinken",
+    "english": "something to eat/to drink",
+    "pronunciation": "et-vahs tsoo es-sen/tsoo tring-ken"
+  },
+  {
+    "german": "Hilfe brauchen",
+    "english": "to need help",
+    "pronunciation": "hil-feh brow-khen"
+  },
+  {
+    "german": "Fahrrad fahren",
+    "english": "to ride a bike",
+    "pronunciation": "fahr-raht fah-ren"
+  },
+  {
+    "german": "Auto fahren",
+    "english": "to drive a car",
+    "pronunciation": "ow-toh fah-ren"
+  },
+  {
+    "german": "noch etwas",
+    "english": "anything/something else",
+    "pronunciation": "nokh et-vahs"
+  },
+  {
+    "german": "noch ein Glas Wasser",
+    "english": "another glass of water",
+    "pronunciation": "nokh ayn glahs vahs-ser"
+  },
+  {
+    "german": "ein bisschen",
+    "english": "a little, a bit",
+    "pronunciation": "ayn bis-khen"
+  },
+  {
+    "german": "ihr alle",
+    "english": "you all (informal)",
+    "pronunciation": "eer ahl-leh"
+  },
+  {
+    "german": "noch einmal",
+    "english": "once more, once again",
+    "pronunciation": "nokh ayn-mahl"
+  },
+  {
+    "german": "den ganzen Tag",
+    "english": "the whole day, the entire day",
+    "pronunciation": "den gahn-tsen tahk"
+  },
+  {
+    "german": "Die Glücklichen!",
+    "english": "The lucky ones!",
+    "pronunciation": "dee gluek-likh-en"
+  },
+  {
+    "german": "jedes Wochenende",
+    "english": "every weekend",
+    "pronunciation": "yay-des vokh-en-en-deh"
   }
 ]
